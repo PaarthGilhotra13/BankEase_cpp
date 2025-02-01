@@ -14,7 +14,7 @@
 ## Installation & Usage
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/Bank-Management-System.git
+   git clone https://github.com/PaarthGilhotra13/BankManagementSystem_cpp
    cd Bank-Management-System
    ```
 2. **Compile the program**:
